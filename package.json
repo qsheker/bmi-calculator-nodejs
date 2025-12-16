@@ -1,0 +1,22 @@
+{
+  "name": "assignment_1",
+  "version": "1.0.0",
+  "description": "my first node js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "1+1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qsheker/node-practice.git"
+  },
+  "author": "aldiyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qsheker/node-practice/issues"
+  },
+  "homepage": "https://github.com/qsheker/node-practice#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
